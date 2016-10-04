@@ -2,7 +2,7 @@ Mijn persoonlijke AHS informatie
 
 | 						| 								|
 | --------------------- | ----------------------------- |
-| Student       		| Serdar Yigit  				|
+| Student       		| Serdar Yigit test test		|
 | Academiejaar 		 	| 2016-17						|
 | Afstudeerrichting  	| Multimediaproductie (MMP)		|
 | Specialisatie 	 	| proDEV						|
