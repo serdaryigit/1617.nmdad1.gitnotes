@@ -1,5 +1,7 @@
 ##CV##
 
+| --------------------- | --------------------------------- |
+|   					| 									|
 | Volledige naam	 	| Serdar Yigit						|
 | Adres en woonplaats  	| Middenstraat 72 Sluiskil			|
 | Geboortedatum	 		| 05-04-1995						|
@@ -16,8 +18,22 @@
 | Computerkennis	 		| n.v.t							|
 | Talenkennis	 		| n.v.t								|
 
-Opleidingen
-:   Zeldenrust Steelantcollege MAVO
-:   Scalda MBO niveau 4 Mediavormgever
+#Opleidingen#
+- Zeldenrust Steelantcollege MAVO
+- Scalda MBO niveau 4 Mediavormgever
 
-Term 3
+#Werkervaring#
+- 2015-  Webdesigner, Searacon Full Service Internet Bureau 
+
+#Cursussen en workshops#
+-
+
+#Nevenactiviteit#
+
+#Computerkennis#
+
+#Talenkennis#
+- Nederlands
+- Turks
+- Engels
+- Duits
