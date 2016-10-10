@@ -1,7 +1,5 @@
 ##CV##
-| 						| 									|
-| --------------------- | --------------------------------- |
-|   					| 									|
+
 | Volledige naam	 	| Serdar Yigit						|
 | Adres en woonplaats  	| Middenstraat 72 Sluiskil			|
 | Geboortedatum	 		| 05-04-1995						|
