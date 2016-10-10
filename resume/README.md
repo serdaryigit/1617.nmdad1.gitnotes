@@ -1,4 +1,4 @@
-#CV#
+<style="text-align: center">#CV#</style>
 
 |   					| 									|
 | --------------------- | --------------------------------- |
@@ -18,7 +18,7 @@
 - Scalda MBO niveau 4 Mediavormgever
 
 ###Werkervaring###
-- 2015-  Webdesigner, Searacon Full Service Internet Bureau 
+- 2015-		Searacon Full Service Internet Bureau, Webdesigner
 
 ###Cursussen en workshop###
 -
