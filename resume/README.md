@@ -1,4 +1,4 @@
-<style="text-align: center">#CV#</style>
+#CV#
 
 |   					| 									|
 | --------------------- | --------------------------------- |
@@ -21,7 +21,7 @@
 - 2015-		Searacon Full Service Internet Bureau, Webdesigner
 
 ###Cursussen en workshop###
--
+n.v.t
 
 ###Nevenactiviteit###
 
