@@ -18,4 +18,8 @@
 | Computerkennis	 		| n.v.t							|
 | Talenkennis	 		| n.v.t								|
 
+Opleidingen
+:   Zeldenrust Steelantcollege MAVO
+:   Scalda MBO niveau 4 Mediavormgever
 
+Term 3
