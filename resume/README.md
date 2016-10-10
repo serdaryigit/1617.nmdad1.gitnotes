@@ -12,28 +12,30 @@
 | E-mailadres	 		| serdyigi@student.arteveldehs.be	|
 | Website  				| n.v.t								|
 | Social media	 		| n.v.t								|
-| Opleidingen 			| 0115-471836						|
-| Werkervaring	 		| serdyigi@student.arteveldehs.be	|
-| Cursussen en workshops 				| n.v.t				|
-| Nevenactiviteit	 		| n.v.t							|
-| Computerkennis	 		| n.v.t							|
-| Talenkennis	 		| n.v.t								|
 
-##Opleidingen##
+###Opleidingen###
 - Zeldenrust Steelantcollege MAVO
 - Scalda MBO niveau 4 Mediavormgever
 
-##Werkervaring##
+###Werkervaring###
 - 2015-  Webdesigner, Searacon Full Service Internet Bureau 
 
-##Cursussen en workshops##
+###Cursussen en workshop###
 -
 
-##Nevenactiviteit##
+###Nevenactiviteit###
 
-##Computerkennis##
+###Computerkennis###
+- HTML
+- CSS
+- PHP
+- Wordpress
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
+- Adobe Premiere Pro
 
-##Talenkennis##
+###Talenkennis###
 - Nederlands
 - Turks
 - Engels
