@@ -2,9 +2,7 @@
 
 <img src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12651190_802655603179453_1693665489334004100_n.jpg?oh=a3a350de91a2f4343bd7367f9f3b7101&oe=5893FFFC" width="200">
 
-|   					| 									|
-| --------------------- | --------------------------------- |
-|   					| 									|
+
 | Volledige naam	 	| Serdar Yigit						|
 | Adres en woonplaats  	| Middenstraat 72 Sluiskil			|
 | Geboortedatum	 		| 05-04-1995						|
@@ -22,8 +20,8 @@
 
 ###Werkervaring(en)###
 
-- 2015-		Searacon Full Service Internet Bureau, Webdesigner
-- 2010-2015	Show Cooking Restaurant Wok Plaza, Keukenhulp
+- <strong><cite>2015-</cite></strong>	Searacon Full Service Internet Bureau, Webdesigner
+- <strong><cite>2010-2015</cite><strong>	Show Cooking Restaurant Wok Plaza, Keukenhulp
 
 ###Cursussen en workshop###
 
@@ -52,7 +50,7 @@ n.v.t
 	- PHP
 	
 - Favoriete websites en apps
-	[www.scientias.nl](https://www.scientias.nl/%22test%22)
+	- [www.scientias.nl](https://www.scientias.nl/%22test%22)
 	
 
 ###Talenkennis###
@@ -64,5 +62,5 @@ n.v.t
 ###Overige###
 
 - Hobby's
-	Dansen
-	Tekenen
+	- Dansen
+	- Tekenen
