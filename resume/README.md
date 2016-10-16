@@ -1,6 +1,6 @@
 #CV#
 
-![enter image description here](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12651190_802655603179453_1693665489334004100_n.jpg?oh=a3a350de91a2f4343bd7367f9f3b7101&oe=5893FFFC =250x)
+![enter image description here](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12651190_802655603179453_1693665489334004100_n.jpg?oh=a3a350de91a2f4343bd7367f9f3b7101&oe=5893FFFC)
 
 |   					| 									|
 | --------------------- | --------------------------------- |
