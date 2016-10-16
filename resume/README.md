@@ -36,23 +36,23 @@ n.v.t
 ###Computerkennis###
 
 - Software
-	Adobe Photoshop
-	Adobe Illustrator
-	Adobe After Effects
-	Adobe Premiere Pro
-	Adobe Indesign
+	- Adobe Photoshop
+	- Adobe Illustrator
+	- Adobe After Effects
+	- Adobe Premiere Pro
+	- Adobe Indesign
 
 - Webtechnologie
-	Wordpress
+	- Wordpress
 
 - Programmeertalen
-	HTML
-	CSS
-	Javascript
-	PHP
+	- HTML
+	- CSS
+	- Javascript
+	- PHP
 	
 - Favoriete websites en apps
-	Scientias.nl https://www.scientias.nl/
+	[www.scientias.nl](https://www.scientias.nl/%22test%22)
 	
 
 ###Talenkennis###
