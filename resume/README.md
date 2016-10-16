@@ -1,6 +1,6 @@
 #CV#
 
-![enter image description here](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12651190_802655603179453_1693665489334004100_n.jpg?oh=a3a350de91a2f4343bd7367f9f3b7101&oe=5893FFFC)
+<img src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/12651190_802655603179453_1693665489334004100_n.jpg?oh=a3a350de91a2f4343bd7367f9f3b7101&oe=5893FFFC" width="200">
 
 |   					| 									|
 | --------------------- | --------------------------------- |
@@ -16,38 +16,53 @@
 | Social media	 		| n.v.t								|
 
 ###Opleidingen###
+
 - Zeldenrust Steelantcollege MAVO
 - Scalda MBO niveau 4 Mediavormgever
 
 ###Werkervaring(en)###
+
 - 2015-		Searacon Full Service Internet Bureau, Webdesigner
 - 2010-2015	Show Cooking Restaurant Wok Plaza, Keukenhulp
 
 ###Cursussen en workshop###
+
 n.v.t
 
 ###Nevenactiviteit(en)###
+
 n.v.t
 
 ###Computerkennis###
+
 - Software
+	Adobe Photoshop
+	Adobe Illustrator
+	Adobe After Effects
+	Adobe Premiere Pro
+	Adobe Indesign
+
 - Webtechnologie
+	Wordpress
 
 - Programmeertalen
-	-- HTML
-	-- CSS
-	-- Javascript
-	-- PHP
+	HTML
+	CSS
+	Javascript
+	PHP
+	
 - Favoriete websites en apps
-
-- Wordpress
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe After Effects
-- Adobe Premiere Pro
+	Scientias.nl https://www.scientias.nl/
+	
 
 ###Talenkennis###
+
 - Nederlands
 - Turks
 - Engels
-- Duits
+
+###Overige###
+
+- Hobby's
+	Dansen
+	Tekenen
