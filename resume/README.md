@@ -12,8 +12,8 @@
 | Burgerlijke staat	 	| Ongehuwd							|
 | Telefoonnummer  		| 0115-471836						|
 | E-mailadres	 		| serdyigi@student.arteveldehs.be	|
-| Website  				| n.v.t								|
-| Social media	 		| n.v.t								|
+| Website  				| n.v.t	.							|
+| Social media	 		| n.v.t	.							|
 
 ###Opleidingen###
 
@@ -22,19 +22,16 @@
 
 ###Werkervaring(en)###
 
-- <strong><i>2015-</i></strong>	Searacon Full Service Internet Bureau, Webdesigner
-- <strong><i>2010-2015</i></strong>	Show Cooking Restaurant Wok Plaza, Keukenhulp
+- <strong>2015-</strong>	Searacon Full Service Internet Bureau, Webdesigner
+- <strong>2010-2015</strong>	Show Cooking Restaurant Wok Plaza, Keukenhulp
 
-###Cursussen en workshop###
-
-n.v.t
+###Cursussen en workshops###
+n.v.t.
 
 ###Nevenactiviteit(en)###
-
-n.v.t
+n.v.t.
 
 ###Computerkennis###
-
 - Software
 	- Adobe Photoshop
 	- Adobe Illustrator
@@ -56,13 +53,11 @@ n.v.t
 	
 
 ###Talenkennis###
-
 - Nederlands
 - Turks
 - Engels
 
 ###Overige###
-
 - Hobby's
 	- Dansen
 	- Tekenen
